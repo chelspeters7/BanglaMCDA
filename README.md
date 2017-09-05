@@ -6,7 +6,8 @@ Decision analysis methods provide opportunities to explore alternatives for drin
 
 # Included Files
 
-
+# Required Files
+R packages: "easypackages","RColorBrewer","gridExtra", "xlsx","easypackages", tidyr", "reshape2", "ggplot2", "extrafont", "OutrankingTools", "gtools", "scales", "dplyr", "plry"
 
 # Author
 C. N. Peters, chelsea.n.peters@vanderbilt.edu
